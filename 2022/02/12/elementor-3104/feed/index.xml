@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Offizieller Test Beitrag	</title>
-	<atom:link href="/2022/02/12/elementor-3104/feed/" rel="self" type="application/rss+xml" />
-	<link>/2022/02/12/elementor-3104/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Ein Block vorraus!</description>
 	<lastBuildDate>Sat, 12 Feb 2022 21:42:03 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Test 3	</title>
-	<atom:link href="/2022/02/13/test-3/feed/" rel="self" type="application/rss+xml" />
-	<link>/2022/02/13/test-3/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Ein Block vorraus!</description>
 	<lastBuildDate>Sun, 13 Feb 2022 11:10:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

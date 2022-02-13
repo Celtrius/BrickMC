@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Datenschutzerklärung	</title>
-	<atom:link href="/datenschutzerklaerung/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Ein Block vorraus!</description>
 	<lastBuildDate>Sat, 12 Feb 2022 14:09:31 +0000</lastBuildDate>
 	<sy:updatePeriod>
