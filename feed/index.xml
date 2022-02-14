@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Ein Block vorraus!</description>
-	<lastBuildDate>Sun, 13 Feb 2022 11:10:36 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Feb 2022 19:21:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -46,7 +46,7 @@
 		
 			</item>
 		<item>
-		<title>Test 2</title>
+		<title>Dies ist ein Test beitrag</title>
 		<link>./../2022/02/13/test-2/index.html</link>
 					<comments>./../2022/02/13/test-2/index.html#respond</comments>
 		
