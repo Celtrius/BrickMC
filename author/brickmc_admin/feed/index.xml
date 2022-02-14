@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Ein Block vorraus!</description>
-	<lastBuildDate>Mon, 14 Feb 2022 19:21:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Feb 2022 20:57:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,45 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Test 3</title>
+		<title>Dies ist ein weitere Beitrag</title>
 		<link>./../../../2022/02/13/test-3/index.html</link>
-					<comments>./../../../2022/02/13/test-3/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[BrickMC_Admin]]></dc:creator>
 		<pubDate>Sun, 13 Feb 2022 11:10:36 +0000</pubDate>
 				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Website]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=3201</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[Hier könnte ihre Werbung stehen? (Oder ein Announcement ihrer Wahl!)]]></description>
+										<content:encoded><![CDATA[
+<p>Hier könnte ihre Werbung stehen? (Oder ein Announcement ihrer Wahl!)</p>
+]]></content:encoded>
 					
-					<wfw:commentRss>./../../../2022/02/13/test-3/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Dies ist ein Test beitrag</title>
 		<link>./../../../2022/02/13/test-2/index.html</link>
-					<comments>./../../../2022/02/13/test-2/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[BrickMC_Admin]]></dc:creator>
 		<pubDate>Sun, 13 Feb 2022 11:09:49 +0000</pubDate>
 				<category><![CDATA[Allgemein]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=3199</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[Dieser Text kann jeder Zeit angepasst werden!]]></description>
+										<content:encoded><![CDATA[
+<p>Dieser Text kann jeder Zeit angepasst werden!</p>
+]]></content:encoded>
 					
-					<wfw:commentRss>./../../../2022/02/13/test-2/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Offizieller Test Beitrag</title>
 		<link>./../../../2022/02/12/elementor-3104/index.html</link>
-					<comments>./../../../2022/02/12/elementor-3104/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[BrickMC_Admin]]></dc:creator>
 		<pubDate>Sat, 12 Feb 2022 21:33:53 +0000</pubDate>
@@ -93,8 +91,6 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>./../../../2022/02/12/elementor-3104/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
